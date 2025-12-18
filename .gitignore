@@ -1,0 +1,13 @@
+# Java
+*.class
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Build
+bin/
+out/
